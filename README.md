@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @RyanLee9219
 - 👀 I’m interested in Cooking, Traveling and CODING
-- 🌱 I’m currently learning Java, JavaScript and C
+- 🌱 I’m currently learning Java and Angular
 - 💞️ I’m looking to collaborate on ... (not figured out yet)
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Maybe nothing LOL
+- ⚡I am Korean but I am currently living in Ottawa
 
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanLee9219&show_icons=true&theme=radical)
