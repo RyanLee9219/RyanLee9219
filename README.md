@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RyanLee9219
 - 👀 I’m interested in Cooking, Traveling and CODING
-- 🌱 I’m currently learning Java and Angular
+- 🌱 I’m currently learning JavaScript, React
 - 💞️ I’m looking to collaborate on ... (not figured out yet)
 - 😄 Pronouns: He/him
 - ⚡I am Korean but I am currently living in Ottawa
